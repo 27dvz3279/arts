@@ -3,7 +3,7 @@ Mortality
 <hr>
 <img src="hhh.gif">
 <br>
-<a href="https://www.instagram.com/2011prime/"><h3>instagram</h3></a>
+<a href="https://www.instagram.com/2011prime/">instagram</a>
 <br>
 <a href="https://www.pinterest.jp/kbc4ds/abstraction/"><h3>Pinterest</h3></a>
 <br>
