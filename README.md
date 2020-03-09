@@ -7,7 +7,9 @@ Mortality
 <br><br><br>
 <a href="https://www.pinterest.jp/kbc4ds/abstraction/">Pinterest</a>
 <br><br><br>
-<a href="https://soundcloud.com/tomoya-kawano-701014088">soundcloud</a>
+<a href="https://soundcloud.com/tomoya-kawano-701014088">soundcloud -1</a>
+<br><br><br>
+<a href="https://soundcloud.com/pczw21/tracks">soundcloud -2</a>
 <br><br><br>
 <a href="https://www.youtube.com/channel/UCJ3psqeTskGC3vViF8r-1Hw?view_as=subscriber">YouTube</a>
 <br><br><br>
