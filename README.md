@@ -3,8 +3,6 @@ Mortality
 <hr>
 <img src="hhh.gif">
 <br>
-<a href="https://www.instagram.com/2011prime/">instagram</a>
-<br><br><br>
 <a href="https://www.pinterest.jp/kbc4ds/abstraction/">Pinterest</a>
 <br><br><br>
 <a href="https://soundcloud.com/tomoya-kawano-701014088/tracks">soundcloud -1</a>
